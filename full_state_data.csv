@@ -1,4 +1,4 @@
-name,year,numFIres,mainCause,mainSize,mainClass,avePutout,mainVegType
+name,year,numFires,mainCause,mainSize,mainClass,avePutout,mainVegType
 Alabama,1992,7,Arson,10,B,0,16
 Alabama,1993,6,Arson,6.65,B,0,16
 Alabama,1994,131,Debris Burning,4,B,0,12
